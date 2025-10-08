@@ -1,3 +1,3 @@
-## Hi, I'm João Pedro 👋
+## Hi, I'm João Araújo👋
 
 
