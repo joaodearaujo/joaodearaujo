@@ -18,6 +18,19 @@
 
 ### 📌 Projetos 
 
+#### 🚚 GeoFlow – Gerenciamento de Logística Urbana
+**Full Stack (Java/Spring Boot & React)**
+
+Sistema de gerenciamento de entregas em tempo real que otimiza a visualização de frotas e a distribuição geográfica de pedidos para empresas de logística.
+
+* **Backend:** API RESTful robusta desenvolvida com Java e Spring Boot, utilizando Spring Data JPA e arquitetura limpa (Controller/Service/Repository) para alta escalabilidade.
+* **Frontend:** Dashboard de alta performance com React, TypeScript e Leaflet, utilizando TanStack Query para sincronização assíncrona e Zod para validação rigorosa de dados.
+* **Features:** Mapa interativo com monitoramento de entregadores, filtros por contexto geográfico, painel de métricas rápidas (KPIs) e simulação de rotas em tempo real.
+
+####  [Acessar Projeto](https://joaodearaujo.github.io/geoflow/)  | 📂 [Repositório](https://github.com/joaodearaujo/geoflow)
+
+---
+
 #### 💰 Omini – Financial Dashboard
 **Fullstack TypeScript (Node.js & React)**
 
@@ -42,17 +55,6 @@ Dashboard meteorológico que transforma dados brutos de API em insights visuais 
 
 ####  [Acessar Projeto](https://joaodearaujo.github.io/weatherforecast/)  | 📂 [Repositório](https://github.com/joaodearaujo/weather-project)
 
----
-#### 🚚 GeoFlow – Gerenciamento de Logística Urbana
-**Full Stack (Java/Spring Boot & React)**
-
-Sistema de gerenciamento de entregas em tempo real que otimiza a visualização de frotas e a distribuição geográfica de pedidos para empresas de logística.
-
-* **Backend:** API RESTful robusta desenvolvida com Java e Spring Boot, utilizando Spring Data JPA e arquitetura limpa (Controller/Service/Repository) para alta escalabilidade.
-* **Frontend:** Dashboard de alta performance com React, TypeScript e Leaflet, utilizando TanStack Query para sincronização assíncrona e Zod para validação rigorosa de dados.
-* **Features:** Mapa interativo com monitoramento de entregadores, filtros por contexto geográfico, painel de métricas rápidas (KPIs) e simulação de rotas em tempo real.
-
-####  [Acessar Projeto](https://joaodearaujo.github.io/geoflow/)  | 📂 [Repositório](https://github.com/joaodearaujo/geoflow)
 ---
 
 ### 📫 Conecte-se comigo
