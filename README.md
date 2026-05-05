@@ -44,19 +44,6 @@ Sistema de gestão financeira de alta fidelidade que abstrai a complexidade de f
 
 ---
 
-#### 🌤️ Weather Forecast Pro
-**Frontend Engineering (React + OpenWeather API)**
-
-Dashboard meteorológico que transforma dados brutos de API em insights visuais em tempo real.
-
-* **Engineering:** Uso de **TanStack Query** para cache de dados e **Zod** para validação de esquemas da API.
-* **UX/UI:** Interface adaptativa baseada no clima atual e componentes modulares e limpos com **Shadcn/UI, TailwindCSS, Leaflet e Maptiler**.
-* **Features:** Geolocalização, previsão estendida para 5 dias e métricas avançadas de visibilidade e vento.
-
-####  [Acessar Projeto](https://joaodearaujo.github.io/weatherforecast/)  | 📂 [Repositório](https://github.com/joaodearaujo/weather-project)
-
----
-
 ### 📫 Conecte-se comigo
 
 <p align="left">
